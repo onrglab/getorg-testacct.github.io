@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "ONRG"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
-url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Oregon Networking Research Group"
+description              : &description "Networking research group in the Department of Computer and Information Science (CIS) at the University of Oregon (UO)."
+url                      : https://onrglab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "getorg-testacct.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "onrg.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "ONRG"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "Networking research group in the Department of Computer and Information Science (CIS) at the University of Oregon (UO)."
+  location         : "Eugene, OR"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : 
   uri              : 
   bitbucket        :
@@ -91,25 +91,24 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "onrglab"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        : 
-
 
 # Reading Files
 include:
