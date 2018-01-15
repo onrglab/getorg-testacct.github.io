@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ONRG"
+title                    : "Oregon Network Research Group"
 title_separator          : "-"
 name                     : &name "Oregon Networking Research Group"
 description              : &description "Networking research group in the Department of Computer and Information Science (CIS) at the University of Oregon (UO)."
